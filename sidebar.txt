@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfz:home|Door43 (kfz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfz|d43-kfz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfz/archive/master.zip|d43-kfz.zip]]
+
+**Recent Changes**
+{{changes>ns = kfz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfz|Ethnologue data]]
+
